@@ -1,4 +1,4 @@
-# Taiwan Accent Mandarin English Code-Switching
+# Probabilistic Language-Aware Speech Recognition
 
 ## Environments
 - python version: `3.9.18`
