@@ -1,0 +1,1 @@
+/home/espnet/tools/env39/lib/python3.9/site-packages/espnet_model_zoo/models--espnet--owsm_v2_ebranchformer/snapshots/5266ee18d07ee37e9185a73e9caec378775849e0/exp/s2t_train_s2t_ebf_conv2d_size1024_e12_d12_piecewise_lr3e-4_warmup60k_flashattn_raw_bpe50000/valid.total_count.ave_5best.till25epoch.pth
