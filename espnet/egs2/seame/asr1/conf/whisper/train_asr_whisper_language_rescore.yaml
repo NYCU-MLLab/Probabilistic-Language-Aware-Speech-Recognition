@@ -43,7 +43,7 @@ model_conf:
     lsm_weight: 0.1
     # kl_beta: 0.001
     kl_beta: 0.0
-    lang_weight: 1
+    lang_weight: 5
     length_normalized_loss: false
     sym_sos: "<|startoftranscript|>"
     sym_eos: "<|endoftext|>"

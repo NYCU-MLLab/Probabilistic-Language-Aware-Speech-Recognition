@@ -14,7 +14,7 @@ valid_set="valid"
 test_sets="devman devsge"
 
 lm_config=conf/tuning/train_lm_transformer.yaml
-asr_config=conf/whisper/train_asr_whisper_small_adapter-lora_sampling_AttOut_language_rescore.yaml
+asr_config=conf/whisper/train_asr_whisper_language_rescore.yaml
 inference_config=conf/whisper/decode_asr_whisper.yaml
 
 freeze_param="adapter"
