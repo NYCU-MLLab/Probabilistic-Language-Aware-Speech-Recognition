@@ -27,7 +27,7 @@ We can utilize the code `whisper_check.py` in the `espnet/tools`. The weight is 
 Make sure to modify the path for the model, config, and the audio file path.
 
 # Language Head Config
-Language-Head structure, and also  can be seen in `espnet/whisper/whisper/model.py`
+Language-Head structure, and also LoRA and adapter structure can be seen in `espnet/whisper/whisper/model.py`
 
 # Training Process
 Example of training process utilizing SEAME Recipe
